@@ -476,7 +476,7 @@ body {
   transition: border-color var(--trans);
 }
 .footer-input-email:focus {
-  outline: none;
+  outline: transparent;
   border-color: #4d5ae5;
 }
 .footer-input-email::placeholder {
